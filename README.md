@@ -2,6 +2,8 @@
 
 A minimal Go wrapper for running Chroma from Go using a Rust FFI shim and [purego](https://github.com/ebitengine/purego) (no cgo required).
 
+Independent project. Not affiliated with, endorsed by or sponsored by Chroma Inc. CHROMA is a registered trademark of Chroma Inc., used here only to describe compatibility.
+
 It supports both:
 - server mode (starts the HTTP frontend)
 - embedded mode (direct in-process calls, no HTTP port)
